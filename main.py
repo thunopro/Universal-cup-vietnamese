@@ -16,3 +16,4 @@ def compute_D(d):
 
 for d in [7, 8,9]:  # you can do 9 if you like
     print(f"D[{d}] =", compute_D(d))
+sdfdsf
